@@ -47,7 +47,7 @@ int main(void)
 	Delay_ms(2000);
 	// 进入K值调整界面，变更Is
 	double Kh1 = MyUtils_MeasurementKh_Is();
-	
+	git push -u origin master -f
 	ShowStep2Interface();
 	Delay_ms(2000);
 	// 进入K值调整界面，变更Im
